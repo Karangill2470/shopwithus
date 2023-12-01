@@ -1,0 +1,37 @@
+.error
+{
+    color: red;
+}
+.product_img{
+    width:100px;
+    height:100px;
+}
+.success
+{
+    color:green;
+}
+.productname,.price
+{
+    font-weight: 900;
+}
+.productname
+{
+    font-size: larger;
+}
+.price
+{
+    font-weight: bolder;
+}
+.jumbotron img
+{
+    height:150px;
+    /* width:200px; */
+}
+.fakeimg {
+height: 300px;
+width:100%;
+}
+/* .thumbnail img{
+    height:500px;
+    width:500px;
+} */
